@@ -1,1 +1,1 @@
-# pokedex-react
+# Pokedex in React with Vite
